@@ -4,13 +4,25 @@ This is a template Flask application provided by [SourceLair](https://www.source
 
 ---
 
+## Get started
+
+1. Start a new project via https://lair.io/sourcelair/flask
+2. View your app in its Public URL
+3. Develop your app with the built-in editor and terminal
+
+## Resources
+
+- [The Public URL](https://help.sourcelair.com/projects/the-public-url/)
+- [Getting started with Flask on SourceLair](https://www.sourcelair.com/guides/frameworks/flask#introduction)
+- [Python on SourceLair reference](https://help.sourcelair.com/stacks/python/)
+
 ## 🆓 🌟 Bonus: Seamless deployment to Heroku
 
 This project can be deployed seamlessly to [Heroku](https://www.heroku.com) from SourceLair:
 
-1. Use the [built-in Git integration](https://help.sourcelair.com/git/) of SourceLair to push new changes to Heroku
-2. Use the built-in `Procfile` to setup your server
-3. Use the built-in `Pipfile` to manage your dependencies with Pipenv
+- Use the [built-in Git integration](https://help.sourcelair.com/git/) of SourceLair to push new changes to Heroku
+- Use the built-in `Procfile` to setup your server
+- Use the built-in `Pipfile` to manage your dependencies with Pipenv
 
 ---
 
